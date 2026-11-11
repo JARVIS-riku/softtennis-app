@@ -1,0 +1,6 @@
+body { margin: 0; background: #fafafa; color: #222; font-family: system-ui, "Hiragino Sans", "Yu Gothic", sans-serif; line-height: 1.8; }
+main { max-width: 720px; margin: 0 auto; padding: 24px 16px 48px; }
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.1rem; margin-top: 1.6em; }
+a { color: #c8102e; }
+hr { margin: 2.5em 0; border: 0; border-top: 1px solid #ddd; }
